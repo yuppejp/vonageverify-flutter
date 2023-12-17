@@ -1,16 +1,12 @@
 # vonageverify
 
-Vonage verify API sample
+Vonage verify API sample application. That's a sample app that implements SMS authentication in a Flutter app. Using Vonage's Verify API, It was able to quickly implement it using only client code.
 
-## Getting Started
+![image](https://github.com/yuppejp/vonageverify-flutter/assets/20147818/a739332c-3d81-4a2f-9855-22ed090059a8)
 
-This project is a starting point for a Flutter application.
+## reference
+- Vonage verify API<br>
+  https://developer.vonage.com/ja/api/verify
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Workflow<br>
+  https://developer.vonage.com/ja/verify/verify-v1/guides/workflows-and-events
